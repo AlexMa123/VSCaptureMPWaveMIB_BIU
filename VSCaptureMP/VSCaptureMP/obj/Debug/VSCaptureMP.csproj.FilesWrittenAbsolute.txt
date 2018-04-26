@@ -1,0 +1,6 @@
+/Users/apple/Downloads/VSCaptureMPWaveMIB/VSCaptureMP/VSCaptureMP/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/apple/Downloads/VSCaptureMPWaveMIB/VSCaptureMP/VSCaptureMP/bin/Debug/VSCaptureMP.exe.config
+/Users/apple/Downloads/VSCaptureMPWaveMIB/VSCaptureMP/VSCaptureMP/bin/Debug/VSCaptureMP.pdb
+/Users/apple/Downloads/VSCaptureMPWaveMIB/VSCaptureMP/VSCaptureMP/bin/Debug/VSCaptureMP.exe
+/Users/apple/Downloads/VSCaptureMPWaveMIB/VSCaptureMP/VSCaptureMP/obj/Debug/VSCaptureMP.exe
+/Users/apple/Downloads/VSCaptureMPWaveMIB/VSCaptureMP/VSCaptureMP/obj/Debug/VSCaptureMP.pdb
