@@ -802,7 +802,7 @@ namespace VSCaptureMP
 
             m_strTimestamp = GetPacketTimestamp(header);
             DateTime dtDateTime = DateTime.Now;
-            string strDateTime = dtDateTime.ToString("dd-MM-yyyy HH:mm:ss.fff", CultureInfo.InvariantCulture);
+            string strDateTime = dtDateTime.Ticks.ToString();
             Console.WriteLine("Time:{0}", strDateTime);
             Console.WriteLine("Time:{0}", m_strTimestamp);
 
@@ -1132,7 +1132,7 @@ namespace VSCaptureMP
             WaveVal.Relativetimestamp = m_strTimestamp;
 
             DateTime dtDateTime = DateTime.Now;
-            string strDateTime = dtDateTime.ToString("dd-MM-yyyy HH:mm:ss.fff", CultureInfo.InvariantCulture);
+            string strDateTime = dtDateTime.Ticks.ToString();
             //WaveVal.Timestamp = DateTime.Now.ToString();
             WaveVal.Timestamp = strDateTime;
             WaveVal.PhysioID = physio_id;
